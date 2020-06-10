@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\3.0.4\bin\i386-win32\fpc.exe" Date="1266910457"/>
+  <Params Value=" -MObjFPC -Scghi -CX -O3 -Xs -XX -l -vewnhibq -FiF:\DelphiDoom_Release\PBSP_51\src\lib\i386-win32 -FuF:\DelphiDoom_Release\PBSP_51\src\ -FUF:\DelphiDoom_Release\PBSP_51\src\lib\i386-win32\ pbsp.lpr"/>
+</CONFIG>
